@@ -56,7 +56,7 @@ TUT_VID = os.environ.get("TUT_VID","https://t.me/hentai_hindi_dubbed/72")
 HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @hentai_hindi_dub\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Ayanakaji>ᴀʏᴀɴᴏᴋᴏᴊɪ</a></blockquote></b>"
 
 
-ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Ayanakaji>ᴀʏᴀɴᴏᴋᴏᴊɪ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/hentai_hindi_dub>ʜᴇɴᴛᴀɪ ʜɪɴᴅɪ ᴅᴜʙ</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/HindiDubbed_Anime>ᴀɴɪᴍᴇ ʜɪɴᴅɪ</a>\n◈ sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/HindiDubbed_Anime>ᴡᴇʙsᴇʀɪᴇs</a>\n◈ ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/pornhwa_flix>ᴀᴅᴜʟᴛ ʜᴜʙ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Ayanakaji>ᴀʏᴀɴᴀᴋᴀᴊɪ</a></blockquote></b>"
+ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Ayanakaji>ᴀʏᴀɴᴏᴋᴏᴊɪ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/hentai_hindi_dub>ʜᴇɴᴛᴀɪ ʜɪɴᴅɪ ᴅᴜʙ</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/HindiDubbed_Anime>ᴀɴɪᴍᴇ ʜɪɴᴅɪ</a>\n◈ sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/HindiDubbed_Anime>ᴡᴇʙsᴇʀɪᴇs</a>\n◈ ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/hentai_hindi_dub>ᴀᴅᴜʟᴛ ʜᴜʙ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Ayanakaji>ᴀʏᴀɴᴀᴋᴀᴊɪ</a></blockquote></b>"
 
 
 START_MSG = os.environ.get("START_MESSAGE", "<b><blockquote>ʙᴀᴋᴋᴀᴀᴀ!! {first}\n\n ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</blockquote></b>")
