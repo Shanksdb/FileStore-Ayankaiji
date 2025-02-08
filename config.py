@@ -47,7 +47,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/YMx.jpg")
 # TRUE for yes FALSE if no 
 TOKEN = True if os.environ.get('TOKEN', "True") == "True" else False 
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "shortxlinks.com")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "adabe1c0675be8ffc5ccbc84a9a65bc5a5d3ec69")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "6e87bba17c88b9d42683509bcdf878f72240e462")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/hentai_hindi_dubbed/72")
